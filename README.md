@@ -1,5 +1,4 @@
-# Saving the updated README content as a markdown file for GitHub
-readme_content = """
+
 # Shopping List Application Deployment on Kubernetes
 
 This README will guide you through deploying a Shopping List Application, consisting of a Flask backend and a React frontend, on Kubernetes. Both services will be deployed and will communicate internally using Kubernetes networking.
